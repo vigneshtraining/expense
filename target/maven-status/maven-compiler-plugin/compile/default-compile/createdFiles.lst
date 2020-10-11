@@ -1,0 +1,13 @@
+de/hsm/persistent/ExpenseService.class
+de/hsm/controller/LoginController.class
+de/hsm/persistent/Participant.class
+de/hsm/controller/ExpenseController.class
+de/hsm/persistent/User.class
+de/hsm/persistent/LoginService.class
+de/hsm/controller/ExpenseSummaryController.class
+de/hsm/controller/CustomErrorController.class
+de/hsm/persistent/SplitExpense.class
+de/hsm/persistent/Payment.class
+de/hsm/App.class
+de/hsm/persistent/ExpenseSplit.class
+de/hsm/persistent/Expense.class
